@@ -28,7 +28,7 @@ function obj(survey) {
     }
 }
 
-// need to store in a file
+// need to store in a file wouldbe
 survey1 = {
     id: 1,
     name: "First survey",
